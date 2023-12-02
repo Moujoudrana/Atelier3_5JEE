@@ -67,6 +67,6 @@ La Gateway, grâce à Eureka, peut fournir un routage dynamique et élastique en
 
   -Gateway
 
-  - Eureka Server: Utilisé pour la découverte et l'enregistrement des services dans un environnement de microservices.
+  -Eureka Server: Utilisé pour la découverte et l'enregistrement des services dans un environnement de microservices.
 
 # - Affichage:
