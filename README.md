@@ -70,3 +70,25 @@ La Gateway, grâce à Eureka, peut fournir un routage dynamique et élastique en
   -Eureka Server: Utilisé pour la découverte et l'enregistrement des services dans un environnement de microservices.
 
 # - Affichage:
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/2bd67454-513d-4ec9-9caa-32449ddb8d5d)
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/71b9cc4f-61d5-4018-9122-82d8d9bd5edc)
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/63f43ce4-ff33-4e4a-95d8-d26226383190)
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/c4b30a1f-dc3b-491f-a777-0725e0b4719e)
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/b115f9d8-db7d-4b51-9f4c-bcb805d35e12)
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/002265f0-8d6b-4f9f-9ef1-acf102eedc83)
+
+![image](https://github.com/Moujoudrana/Atelier3_5JEE/assets/93864104/f365929d-aba2-4e63-9eee-9b592bf4a7e2)
+
+
+
+
+
+
+
+
